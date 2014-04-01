@@ -1,0 +1,29 @@
+{
+  "name": "2048-as-a-service",
+  "version": "0.1.0",
+  "description": "2048 As A Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/netvarun/2048-as-a-service.git"
+  },
+  "keywords": [
+    "2048"
+  ],
+  "author": "Sivamani Varun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/netvarun/2048-as-a-service/issues"
+  },
+  "dependencies": {
+    "restify": "~2.6.3",
+    "crypto": "0.0.3",
+    "node-uuid": "~1.4.1",
+    "weighted": "~0.2.2",
+    "cli-table": "~0.3.0",
+    "bunyan": "~0.22.1",
+  }
+}
