@@ -8,7 +8,7 @@ internet-of-things devices!
 # Our Launch
 Read more about our launch in here: http://blog.semantics3.com/announcing-2048-as-a-service/
 
-Also check out our 2048 - Startup Growth Edition (MVP)[http://2048.semantics3.com/2048], which was built to showcase the 
+Also check out our 2048 - Startup Growth Edition [MVP](http://2048.semantics3.com/2048), which was built to showcase the 
 the 2048-as-a-service API.
 
 
