@@ -8,12 +8,12 @@ internet-of-things devices!
 # Our Launch
 Read more about our launch in here: http://blog.semantics3.com/announcing-2048-as-a-service/
 
-Also check out our 2048 - Startup Growth Edition [MVP](http://2048.semantics3.com/2048), which was built to showcase the 
+Also check out our 2048 - Startup Growth Edition [MVP](http://2048.semantics3.com/2048.html), which was built to showcase the 
 2048-as-a-service API.
 
 
 # Test it out
-This API is currently running live on http://2048.semantics3.com/
+This API is currently running live on host http://2048.semantics3.com/
 
 Type this command on the command line [full example](#full-example-gameplay)
 
@@ -27,8 +27,6 @@ To demonstrate the advanced features of our 2048-as-a-service we have also built
 
 
 # The API
-
-For the below examples to work in your system replace `api.semantics3.com` with a suitable `<host>:<port>`
 
 ####API Modes
 2048-as-a-services supports two modes:
