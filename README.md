@@ -9,7 +9,7 @@ internet-of-things devices!
 Read more about our launch in here: http://blog.semantics3.com/announcing-2048-as-a-service/
 
 Also check out our 2048 - Startup Growth Edition [MVP](http://2048.semantics3.com/2048), which was built to showcase the 
-the 2048-as-a-service API.
+2048-as-a-service API.
 
 
 # Test it out
@@ -55,6 +55,16 @@ Failure to do so will result in a **800** 'Please say hi...' error.
 
 All game sessions will be terminated if there is more than `5 minutes` of inactivity.
 
+#### Installing Locally
+**2048-as-a-service** can be also installed locally.
+
+To build and install from the latest source:
+
+    $ git clone git@github.com:Semantics3/2048-as-a-service.git
+    $ cd 2048-as-a-service
+    $ npm install
+    $ node index.js (Will start 2048-as-a-service running on port 8080)
+
 # API Reference (JSON mode)
 
 ## GET /hi/start/json
@@ -68,7 +78,6 @@ It will start with the standard **2048** game parameters of `size` set to 4, `ti
 Start a customized version of **2048**.
 
 ####Parameters
-
 
 
 `size` - grid size of the game
