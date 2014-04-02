@@ -81,7 +81,7 @@ Responds with a **503** if invalid `size` is sent.
 
 `tiles` - number of tiles at game start
 
-Allowed value is an **integer** between **1** and **[0.5 * ** `size`^**2]**
+Allowed value is an **integer** between **1** and **[0.5 * `size`^2]**
 
 Responds with a **503** if invalid `tiles` is sent.
 

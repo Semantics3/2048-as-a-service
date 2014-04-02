@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/netvarun/2048-as-a-service.git"
+    "url": "git://github.com/Semantics3/2048-as-a-service.git"
   },
   "keywords": [
     "2048"
@@ -16,7 +16,7 @@
   "author": "Sivamani Varun",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/netvarun/2048-as-a-service/issues"
+    "url": "https://github.com/Semantics3/2048-as-a-service/issues"
   },
   "dependencies": {
     "restify": "~2.6.3",
