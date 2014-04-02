@@ -24,6 +24,6 @@
     "node-uuid": "~1.4.1",
     "weighted": "~0.2.2",
     "cli-table": "~0.3.0",
-    "bunyan": "~0.22.1",
+    "bunyan": "~0.22.1"
   }
 }
