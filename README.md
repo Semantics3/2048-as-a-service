@@ -6,7 +6,7 @@ Integrate 2048-functionality into your bash scripts, SoLoMo (social-local-mobile
 internet-of-things devices!
 
 # Our Launch
-Read more about our launch in here: http://blog.semantics3.com/announcing-2048-as-a-service/
+Read more about our launch in here: https://engineering.semantics3.com/announcing-2048-as-a-service-d116a82192a2
 
 Also check out our 2048 - Startup Growth Edition [MVP](http://2048.semantics3.com/2048.html), which was built to showcase the 
 2048-as-a-service API.
