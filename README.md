@@ -63,6 +63,9 @@ To build and install from the latest source:
     $ npm install
     $ node index.js (Will start 2048-as-a-service running on port 8080)
 
+The latest version of node at the time of release was v0.11.12.
+Compatibility with other versions is not guaranteed.
+
 # API Reference (JSON mode)
 
 ## GET /hi/start/json
